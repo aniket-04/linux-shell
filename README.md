@@ -17,3 +17,5 @@ $ ls -l /var/log
 ```
 $ man ls
 ```
+3. `cd`
+4. `pwd`
