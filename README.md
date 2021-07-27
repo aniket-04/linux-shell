@@ -1,7 +1,7 @@
 # linux-shell
  ```All About Linux Commands and shell Scripting.``` 
  
-### GENERAL COMMAND SYNTAX
+### COMMAND SYNTAX
 ```
 $ ls -l /var/log
 ```
@@ -14,3 +14,6 @@ $ ls -l /var/log
 ### Commands in linux 
 1. `ls` -> ls is used to list a folder's contents.
 2. `man` -> man is short form of manual, it used to give a description of any Linux command.
+```
+$ man ls
+```
